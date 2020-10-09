@@ -5,6 +5,10 @@
 ## Dicord_Moderator_Bot acts as a moderator for your Server,watching the messages that are being sent on the server 👨‍🏫
 ## The Bot deletes Messages that are toxic in nature and sends nice little DM to the author of that message to follow community Guidelines 
 ## However on repeated violations of this sort the Bot will kick out the user 
+
+![Bot DM Image](https://github.com/Jash271/Discord_Moderator_Bot/blob/master/Bot_SS.jpeg)
+
+
 ## Additionally there are a few Bot commands that can be executed :
 
 ```
