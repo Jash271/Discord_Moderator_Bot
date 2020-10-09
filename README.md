@@ -17,6 +17,11 @@ $invite
 ### This Command Generates the Server joining Code,so you don't have to go places asking for the invite or search through the list of messages 
 
 ```
+$Imp [Your message Goes here]
+```
+### Often important messages get lost in the chats,also more often than not people do tend to forget to pin the Message for further reference hence to prevent that type in this command and the message in the format above and it will do the rest 😇
+
+```
 >$Joke
 >Where do programmers like to hangout? 
  The Foo Bar.
