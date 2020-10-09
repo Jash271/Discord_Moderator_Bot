@@ -13,10 +13,12 @@ $invite
 ### This Command Generates the Server joining Code,so you don't have to go places asking for the invite or search through the list of messages 
 
 ```
-$Joke
-
+>$Joke
+>Where do programmers like to hangout? 
+ The Foo Bar.
 ```
 ### Generates a Random Programming 👨‍💻 Joke to lighten up your Day 
+
 
 
 ```
